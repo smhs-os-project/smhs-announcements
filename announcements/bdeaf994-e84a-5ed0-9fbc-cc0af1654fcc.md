@@ -1,0 +1,18 @@
+---
+category: 校內訊息公告區
+title: 【更新】110學年度上學期線上補考日程表與補考方式
+date: 2022-01-24
+href: http://www.smhs.kh.edu.tw/p/406-1000-2789,r24.php?Lang=zh-tw
+---
+
+# [校內訊息公告區] 【更新】110學年度上學期線上補考日程表與補考方式
+發布日期：2022-01-24
+
+<div><div></div><div><p>為因應疫情，本校110學年度上學期補考採線上施測，補考日程表請參閱附件，另詳細補考資訊將於1月26日(三)公告於學校首頁。<p> <p>請補考學生依據以下表單所敘方式進行補考<p>所有線上補考方式大致分成三類:<h3>1.以學校google帳號登入填寫google表單，請提早確認自己google帳號是否可以登入</h3><h3>2.以學校google帳號加入google classroom，請提早加入classroom，依照老師教室內的指示完成補考</h3><h3>3.以龍騰線上題測帳號進行線上考試，請同學提早完成註冊帳號，加入班級，才會收到派送試卷</h3><h3>(請同學在補考前做好準備!!)</h3><h3>高一線上補考方式：<a href=https://docs.google.com/spreadsheets/d/1p6p17oTS8iRz-RHALWyLCPah4LrMhome3jKUMGbOIWo/edit?usp=sharing target=_blank>https://docs.google.com/spreadsheets/d/1p6p17oTS8iRz-RHALWyLCPah4LrMhome3jKUMGbOIWo/edit?usp=sharing</a></h3><p> <h3>高二線上補考方式：<a href=https://docs.google.com/spreadsheets/d/1vtDq7ffrb__xM3KQhjbV6-uWre1xaJ1lbVRg78EtVU8/edit?usp=sharing target=_blank>https://docs.google.com/spreadsheets/d/1vtDq7ffrb__xM3KQhjbV6-uWre1xaJ1lbVRg78EtVU8/edit?usp=sharing</a></h3><p> <h3>高三線上補考方式：<a href=https://docs.google.com/spreadsheets/d/1FYuswyDS0femYKD3odPula7amXRLGDzboJCatyk994M/edit?usp=sharing target=_blank>https://docs.google.com/spreadsheets/d/1FYuswyDS0femYKD3odPula7amXRLGDzboJCatyk994M/edit?usp=sharing</a></h3><p> <p> <p>※補考範圍請參閱後附連結：<a href=https://www.smhs.kh.edu.tw/p/406-1000-2765,r24.php?Lang=zh-tw><span>補考範圍</span></a><p>※補考名單請參閱後附連結：<a href=https://www.smhs.kh.edu.tw/p/406-1000-2790,r24.php><span>補考名單</span></a></div></div>
+
+## 附件
+- [110-1高一補考日程表.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/73/pta_2477_5183337_04796.pdf)
+- [110-1高二補考日程表.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/73/pta_2492_7745326_75680.pdf)
+- [110-1高三補考日程表.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/73/pta_2493_3625655_75812.pdf)
+- [高一基因工程概論補考--DNA序列設計學習單.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/73/pta_2494_7241370_75812.pdf)
+- [高二專題研究補考說明(班級：207、208、211).pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/73/pta_2495_9446179_75812.pdf)
