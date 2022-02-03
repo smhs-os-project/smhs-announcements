@@ -20,6 +20,7 @@
 - [2021-11-22 / 友善校園宣導~反詐騙(11月)](./announcements/7be1944c-d0f8-5ccf-bf0d-3539187cad6a.md)
 - [2021-11-02 / 友善校園宣導~反詐騙(另開新視窗)](./announcements/32b591a9-ab44-55f7-8b96-4ede74d47cf7.md)
 - [2021-11-01 / ~友善校園宣導~   反菸毒宣導](./announcements/19633b9e-544b-5dfe-a894-c3c7eec1bce2.md)
+- [2022-02-03 / 公告 2/8寒假Metaverse雙語營取消辦理](./announcements/cf60760d-ce8f-5712-849e-8ead5bbbdcdf.md)
 
 ### 升學公告區
 - [2022-01-26 / 國立高雄師範大學於111年3月12日（星期六）舉辦「2022入學最前線」招生說明會](./announcements/dd17a0d1-6a30-5055-9221-7ca4dfae2bea.md)
