@@ -49,6 +49,8 @@
 - [2022-01-26 / 「公平30有禮」有獎徵答網路活動](./announcements/220a7386-bfe5-5af5-ba35-a5f86ad13506.md)
 - [2022-01-25 / 轉知「2022朝資盃－追求無限可能創新競賽」](./announcements/e1818f20-4abf-5e65-8314-e4344a9aaa37.md)
 - [2022-01-22 / 轉知「2022第六屆CUTe企管盃-全國大專校院暨高中職智慧科技應用與創新服務企劃競賽」](./announcements/27c77674-c49b-59a4-9ecd-f851c784835f.md)
+- [2022-02-07 / 111年中學生運算思維培養-Python線上研習](./announcements/224e1c75-7a4a-5444-ba7f-e801eb00a6fd.md)
+- [2022-02-07 / 全國科學探究競賽-這樣教我就懂](./announcements/6d8fea16-dc69-539b-965d-a2473f913656.md)
 
 ### 學校法規公告區
 - [2022-01-24 / 高雄市立三民高中「服裝儀容委員會」設置要點-1110120修](./announcements/e95d8122-7fc8-5e06-bab8-9b4a9731f669.md)
@@ -78,3 +80,4 @@
 - [2022-01-20 / 轉知110學年度全國教師增能研習「植物生態與生理」暫停辦理](./announcements/b0495952-3e31-5bb1-970d-94da3e2447f4.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-After Effects」教師研習](./announcements/84fb4821-f313-5a92-8ca5-b4dda2f2b8cf.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-Photoshop」教師研習](./announcements/a3eae4cd-782a-5fe0-8f4a-365889f35a6f.md)
+- [2022-02-07 / 轉知【GatherTown策展及解謎遊戲實戰班-主題企劃Ｘ美術應用（進階班）】](./announcements/2cc003ce-68ca-5f12-9cc1-59cfcf0f06c8.md)
