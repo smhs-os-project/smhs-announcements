@@ -20,6 +20,7 @@
 - [2021-11-22 / 友善校園宣導~反詐騙(11月)](./announcements/7be1944c-d0f8-5ccf-bf0d-3539187cad6a.md)
 - [2021-11-02 / 友善校園宣導~反詐騙(另開新視窗)](./announcements/32b591a9-ab44-55f7-8b96-4ede74d47cf7.md)
 - [2021-11-01 / ~友善校園宣導~   反菸毒宣導](./announcements/19633b9e-544b-5dfe-a894-c3c7eec1bce2.md)
+- [2022-02-07 / 公告110學年度第2學期高二模擬考日程表暨考試範圍](./announcements/178765ff-3b9e-55af-948e-af4060583626.md)
 - [2022-02-03 / 公告 2/8寒假Metaverse雙語營取消辦理](./announcements/cf60760d-ce8f-5712-849e-8ead5bbbdcdf.md)
 
 ### 升學公告區
@@ -80,4 +81,7 @@
 - [2022-01-20 / 轉知110學年度全國教師增能研習「植物生態與生理」暫停辦理](./announcements/b0495952-3e31-5bb1-970d-94da3e2447f4.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-After Effects」教師研習](./announcements/84fb4821-f313-5a92-8ca5-b4dda2f2b8cf.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-Photoshop」教師研習](./announcements/a3eae4cd-782a-5fe0-8f4a-365889f35a6f.md)
+- [2022-02-07 / 轉知「2D數位媒體與ARVR實境應用行銷實作研習營」](./announcements/9428ea4f-1b3f-5b80-900b-cc2fa599f761.md)
+- [2022-02-07 / 轉知「2022工業管理與危機管理學術研討會」之徵稿公告](./announcements/cb3ebabd-6b46-5354-b3f2-dd4b76efd9c0.md)
+- [2022-02-07 / 敬邀貴校教師參與「學習歷程檔案x課程引導設計」教師增能講座，請查照。](./announcements/e3a1ee06-674e-54d2-96b2-182a89ccf1a9.md)
 - [2022-02-07 / 轉知【GatherTown策展及解謎遊戲實戰班-主題企劃Ｘ美術應用（進階班）】](./announcements/2cc003ce-68ca-5f12-9cc1-59cfcf0f06c8.md)
