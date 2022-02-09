@@ -98,7 +98,6 @@
 - [2022-01-20 / 轉知110學年度全國教師增能研習「植物生態與生理」暫停辦理](./announcements/b0495952-3e31-5bb1-970d-94da3e2447f4.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-After Effects」教師研習](./announcements/84fb4821-f313-5a92-8ca5-b4dda2f2b8cf.md)
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-Photoshop」教師研習](./announcements/a3eae4cd-782a-5fe0-8f4a-365889f35a6f.md)
-- [2022-02-09 / 轉知「普通型高級中等學校學科中心學生課程學習成果檔案示例成果發表會」](./announcements/45fdd2ed-7a8d-5ed5-91e4-f89bbf22aa44.md)
 - [2022-02-09 / 轉知理｢110年度中等學校教師在職進修第二專長專門科目學分班｣](./announcements/8f2a75af-00a3-5dd8-9cf4-e79323331ac4.md)
 - [2022-02-07 / 轉知「2022工業管理與危機管理學術研討會」之徵稿公告](./announcements/cb3ebabd-6b46-5354-b3f2-dd4b76efd9c0.md)
 - [2022-02-07 / 敬邀貴校教師參與「學習歷程檔案x課程引導設計」教師增能講座，請查照。](./announcements/e3a1ee06-674e-54d2-96b2-182a89ccf1a9.md)
