@@ -70,7 +70,6 @@
 - [2022-02-08 / 「第19屆金聲獎」](./announcements/c815281b-9526-5c4f-a615-2886ae5f1e94.md)
 - [2022-02-08 / 2022台灣燈會在高雄-交通資訊懶人包](./announcements/5c378bd2-ec7d-55a3-b5f6-e5e0724e0abb.md)
 - [2022-02-08 / 「2022年第三屆臺灣科學節」](./announcements/086e22a4-f69f-59bf-9c1d-bf66739a7201.md)
-- [2022-02-07 / 111年中學生運算思維培養-Python線上研習](./announcements/224e1c75-7a4a-5444-ba7f-e801eb00a6fd.md)
 - [2022-02-07 / 全國科學探究競賽-這樣教我就懂](./announcements/6d8fea16-dc69-539b-965d-a2473f913656.md)
 
 ### 學校法規公告區
