@@ -2,7 +2,7 @@
 category: 研習公告區
 title: 轉知「2022工業管理與危機管理學術研討會」之徵稿公告
 date: 2022-02-07
-href: http://www.smhs.kh.edu.tw/p/406-1000-2843,r23.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-2843,r23.php
 ---
 
 # [研習公告區] 轉知「2022工業管理與危機管理學術研討會」之徵稿公告
