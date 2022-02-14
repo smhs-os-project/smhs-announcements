@@ -110,7 +110,6 @@
 - [2022-01-20 / 轉知「ACP CC 2021師資培訓暨原廠認證解析-Photoshop」教師研習](./announcements/a3eae4cd-782a-5fe0-8f4a-365889f35a6f.md)
 - [2022-02-14 / 轉知「110學年度高級中等學校原住民族教育相關校訂課程觀摩研討暨成果展示活動」](./announcements/bdf8e1fa-7534-53df-8e2d-74ce03d5706d.md)
 - [2022-02-14 / 轉知高雄市瑞祥高中辦理「接待家庭」培訓課程研習](./announcements/b318991f-a98e-5d64-a6bb-97b807aa2cc0.md)
-- [2022-02-09 / 轉知理｢110年度中等學校教師在職進修第二專長專門科目學分班｣](./announcements/8f2a75af-00a3-5dd8-9cf4-e79323331ac4.md)
 - [2022-02-07 / 轉知「2022工業管理與危機管理學術研討會」之徵稿公告](./announcements/cb3ebabd-6b46-5354-b3f2-dd4b76efd9c0.md)
 - [2022-02-07 / 敬邀貴校教師參與「學習歷程檔案x課程引導設計」教師增能講座，請查照。](./announcements/e3a1ee06-674e-54d2-96b2-182a89ccf1a9.md)
 - [2022-02-07 / 轉知【GatherTown策展及解謎遊戲實戰班-主題企劃Ｘ美術應用（進階班）】](./announcements/2cc003ce-68ca-5f12-9cc1-59cfcf0f06c8.md)
