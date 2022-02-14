@@ -1,0 +1,18 @@
+---
+category: 公文公告區
+title: 轉知有關公立學校教職員退休資遣撫卹條例部分條文修正案，業奉總統111年1月19日華總一義字第11100002571號令公布。
+date: 2022-02-14
+href: http://www.smhs.kh.edu.tw/p/406-1000-2897,r22.php?Lang=zh-tw
+---
+
+# [公文公告區] 轉知有關公立學校教職員退休資遣撫卹條例部分條文修正案，業奉總統111年1月19日華總一義字第11100002571號令公布。
+
+發布日期：2022-02-14
+
+<div><div></div><div>相關內容請參見附件。</div></div>
+
+## 附件
+
+- [34428198_11130891300.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/84/pta_2606_159692_00672.pdf)
+- [34428198_11130891300_ATT1.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/84/pta_2607_7635798_00672.pdf)
+- [修正條文 (1).pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/84/pta_2608_7719613_00672.pdf)
