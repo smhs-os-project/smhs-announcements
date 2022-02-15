@@ -1,0 +1,17 @@
+---
+category: 校內訊息公告區
+title: 公告110學年度下學期高三第1次模擬考日程表及考試範圍
+date: 2022-02-15
+href: http://www.smhs.kh.edu.tw/p/406-1000-2915,r24.php?Lang=zh-tw
+---
+
+# [校內訊息公告區] 公告110學年度下學期高三第1次模擬考日程表及考試範圍
+
+發布日期：2022-02-15
+
+<div><div></div><div>110學年度下學期高三第1次模擬考日程表及考試範圍，請參閱附件。</div></div>
+
+## 附件
+
+- [110-2高三第1次模擬考日程表.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/5/pta_2627_9456241_12452.pdf)
+- [110-2高三第1次模擬考考試範圍.pdf](https://www.smhs.kh.edu.tw/var/file/0/1000/attach/5/pta_2628_8877143_12452.pdf)
