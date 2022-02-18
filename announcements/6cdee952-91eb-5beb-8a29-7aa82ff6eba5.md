@@ -2,7 +2,7 @@
 category: 競賽活動公告區
 title: 轉知「110學年度全國學生美展」
 date: 2022-02-17
-href: http://www.smhs.kh.edu.tw/p/406-1000-2936,r21.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-2936,r21.php
 ---
 
 # [競賽活動公告區] 轉知「110學年度全國學生美展」
