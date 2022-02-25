@@ -6,15 +6,15 @@
 ## 公告一覽
 
 ### 校內訊息公告區
-- [2022-02-24 / 國家表演藝術中心臺中國家歌劇院NTT Online「劇場線上導覽」](./announcements/fdb91bcf-3518-51cd-a7dc-80f813e8961e.md)
+- [2022-02-25 / 公告 高三畢聯會任務組員](./announcements/2506c37f-5d9d-5aed-b390-a717d4fe09f3.md)
 - [2022-02-23 / 1110216-高三重要時程與學習歷程自述撰寫引導講座簡報](./announcements/31f200e0-b1d9-5d63-959f-efe7914d0cf1.md)
-- [2022-02-23 / 公告 高二自主學習上課名單及地點(另開新視窗)](./announcements/34d00cb6-dd3f-524e-beeb-10aa8b0d79d6.md)
-- [2022-02-21 / 本校111年大學博覽會(111年2月25日)相關位置圖、注意事項等訊息](./announcements/6614f3e8-da3f-5e32-adf1-7b22ddef6200.md)
 - [2022-02-14 / 通知~請同仁於2月15日中午以前檢具「COVID-19 疫苗接種紀錄卡」影本送交人事室彙整。](./announcements/072d3ef5-d52a-5054-aae0-fb3c8d67911c.md)
 - [2022-02-11 / 高雄市立三民高級中學教職員工嚴重特殊傳染性肺炎(COVID-19)健康關懷調查表](./announcements/85d305b1-6b35-5d4f-b6d7-c996a58f8475.md)
 - [2022-01-29 / 110學年度第1學期 期末考試【高一、高二】各班前三名名單](./announcements/e94e12e1-6c43-57be-a84c-206fe3dd6a34.md)
 - [2022-01-28 / 為因應國內COVID-19疫情風險升溫，請同學們注意，如有症狀儘速就醫。](./announcements/7812a1e8-cc05-54a4-ac0d-fa5ec0d3767f.md)
 - [2022-01-27 / 高雄市立三民高級中學教職員工接種COVID-19疫苗第三劑調查表](./announcements/f93857e1-4741-555d-b002-5ecb793a1b5b.md)
+- [2022-01-26 / 學習歷程檔案自學資源(111年)](./announcements/c2be4f45-8092-56de-ae6f-924f43c75760.md)
+- [2022-01-25 / 公告 110-2高一彈性學習選課名單](./announcements/b820cc5e-419c-51a0-9e77-cf5f68d632cc.md)
 
 ### 升學公告區
 - [2022-02-25 / 明新學校財團法人明新科技大學111學年度日間部各入學管道招生訊息](./announcements/747d69ed-9662-5b32-ad4f-f4ffe0185a94.md)
@@ -42,12 +42,12 @@
 - [2022-02-25 / 磨課師(MOOCs)線上課程「班級經營」](./announcements/db7649a3-6409-5891-925f-bbda6143b32a.md)
 - [2022-02-25 / 「第13屆廣達游藝獎『導覽達人』競賽」](./announcements/8a0bceb4-07a4-5e96-b682-1f6ff95034b4.md)
 - [2022-02-24 / 轉知111年度全國高中職智慧生活創意設計比賽複賽活動停止辦理](./announcements/55e6fd01-be47-557b-80ef-83ef720767c9.md)
+- [2022-02-24 / 國家表演藝術中心臺中國家歌劇院NTT Online「劇場線上導覽」](./announcements/504c04b6-8cae-506e-b287-913bda039dbd.md)
 - [2022-02-24 / 「Give Thanks手作課程](./announcements/df3836d7-a6dc-5aed-9b0b-aaaae852126c.md)
 - [2022-02-24 / 「逆境美學」](./announcements/48bdaab9-13a2-5f47-a497-8289056ff806.md)
 - [2022-02-24 / 高雄探究網～111年自然領域情境式能力導向評量學生寒假上網挑戰](./announcements/37646fed-bb60-5382-aea2-2e99b0bfd83e.md)
 - [2022-02-24 / 2022年臺大杜鵑花節](./announcements/f47d88bc-ac0f-5a29-bc75-3f44e238d52f.md)
 - [2022-02-24 / 仁德醫專辦理醫護專題講座及醫護課程體驗活動-「麥德森・娜思」節](./announcements/04676816-acf3-53be-86c9-dd3d624c6b3b.md)
-- [2022-02-24 / 2022東海大學法律學院Open Campus](./announcements/5633ca37-dc52-5c37-becf-1ab9fd91a5a7.md)
 
 ### 學校法規公告區
 - [2022-01-24 / 高雄市立三民高中「服裝儀容委員會」設置要點-1110120修](./announcements/e95d8122-7fc8-5e06-bab8-9b4a9731f669.md)
