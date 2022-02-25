@@ -39,6 +39,8 @@
 - [2022-01-26 / 鼓勵考領機車駕照前，參加駕訓班接受正規駕駛訓練並補助案](./announcements/4b45fa60-efa8-5fb4-846f-9cb907b24b07.md)
 
 ### 競賽活動公告區
+- [2022-02-25 / 磨課師(MOOCs)線上課程「班級經營」](./announcements/db7649a3-6409-5891-925f-bbda6143b32a.md)
+- [2022-02-25 / 「第13屆廣達游藝獎『導覽達人』競賽」](./announcements/8a0bceb4-07a4-5e96-b682-1f6ff95034b4.md)
 - [2022-02-24 / 轉知111年度全國高中職智慧生活創意設計比賽複賽活動停止辦理](./announcements/55e6fd01-be47-557b-80ef-83ef720767c9.md)
 - [2022-02-24 / 「Give Thanks手作課程](./announcements/df3836d7-a6dc-5aed-9b0b-aaaae852126c.md)
 - [2022-02-24 / 「逆境美學」](./announcements/48bdaab9-13a2-5f47-a497-8289056ff806.md)
@@ -46,8 +48,6 @@
 - [2022-02-24 / 2022年臺大杜鵑花節](./announcements/f47d88bc-ac0f-5a29-bc75-3f44e238d52f.md)
 - [2022-02-24 / 仁德醫專辦理醫護專題講座及醫護課程體驗活動-「麥德森・娜思」節](./announcements/04676816-acf3-53be-86c9-dd3d624c6b3b.md)
 - [2022-02-24 / 2022東海大學法律學院Open Campus](./announcements/5633ca37-dc52-5c37-becf-1ab9fd91a5a7.md)
-- [2022-02-24 / 明新科技大學辦理「2022一日體驗營活動」](./announcements/1da85712-e49e-55bf-9db1-98893ad0f024.md)
-- [2022-02-22 / 轉知「2022 中學生跨域問題解決創意專題論壇」徵稿](./announcements/b94bb172-2ec9-51c2-857d-031e5d67416b.md)
 
 ### 學校法規公告區
 - [2022-01-24 / 高雄市立三民高中「服裝儀容委員會」設置要點-1110120修](./announcements/e95d8122-7fc8-5e06-bab8-9b4a9731f669.md)
