@@ -2,7 +2,7 @@
 category: 研習公告區
 title: 轉知「原住民族語言能力認證測驗」之資訊監試人員培訓研習
 date: 2022-03-03
-href: http://www.smhs.kh.edu.tw/p/406-1000-3069,r23.php
+href: http://www.smhs.kh.edu.tw/p/406-1000-3069,r23.php?Lang=zh-tw
 ---
 
 # [研習公告區] 轉知「原住民族語言能力認證測驗」之資訊監試人員培訓研習
