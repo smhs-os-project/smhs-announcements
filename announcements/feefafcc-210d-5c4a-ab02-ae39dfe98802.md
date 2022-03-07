@@ -2,7 +2,7 @@
 category: 公文公告區
 title: 金門縣政府獎學金申請
 date: 2022-03-07
-href: http://www.smhs.kh.edu.tw/p/406-1000-3112,r22.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3112,r22.php
 ---
 
 # [公文公告區] 金門縣政府獎學金申請
