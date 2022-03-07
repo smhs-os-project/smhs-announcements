@@ -2,7 +2,7 @@
 category: 競賽活動公告區
 title: 2022台電綠網「綠動隨手拍」友善環境攝影票選活動
 date: 2022-03-04
-href: http://www.smhs.kh.edu.tw/p/406-1000-3087,r21.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3087,r21.php
 ---
 
 # [競賽活動公告區] 2022台電綠網「綠動隨手拍」友善環境攝影票選活動
