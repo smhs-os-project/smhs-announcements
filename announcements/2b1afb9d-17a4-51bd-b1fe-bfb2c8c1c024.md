@@ -2,7 +2,7 @@
 category: 研習公告區
 title: 「110學年度社群召集人第三場增能培訓研習」
 date: 2022-03-07
-href: http://www.smhs.kh.edu.tw/p/406-1000-3101,r23.php
+href: http://www.smhs.kh.edu.tw/p/406-1000-3101,r23.php?Lang=zh-tw
 ---
 
 # [研習公告區] 「110學年度社群召集人第三場增能培訓研習」
