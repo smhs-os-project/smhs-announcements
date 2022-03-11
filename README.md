@@ -61,6 +61,7 @@
 - [2021-05-01 / 家長會獎勵金發放辦法](./announcements/708c406c-6cf1-50c6-a9d4-365a78e08ba7.md)
 
 ### 研習公告區
+- [2022-03-11 / 轉知臺灣師範大學辦理「高中線上同步課程」Python程式語言及人工智慧實作班(第3期)](./announcements/989dd112-e6c3-5236-a680-ce5d7e4801e3.md)
 - [2022-03-10 / 轉知「美感創業研習」](./announcements/ce3f9b53-6d89-5d7b-8e7e-5e921a6eadd2.md)
 - [2022-03-10 / 轉知「政大數位知識城」開設五門磨課師(MOOCs)課程](./announcements/c0ea3ccc-41df-519a-a595-4595afa33b95.md)
 - [2022-03-10 / 轉知「十二年國民基本教育原住民族文化科學模組製作研習班」](./announcements/af1911d3-4ed1-5c12-b06c-8b3529fbc5ac.md)
@@ -69,4 +70,3 @@
 - [2022-03-09 / 轉知「教室外的人權課─香港紀錄片《時代革命》觀影暨映後座談」](./announcements/2aa5cfaf-d1bf-5227-8563-be8d255225c6.md)
 - [2022-03-09 / 轉知家政主修專長暑期自費班](./announcements/b8befcb4-7bb2-59cb-a162-feb80e24e55b.md)
 - [2022-03-09 / 轉知《蓋婭科普講座系列10》—「全球暖化加速地震的發生嗎？」](./announcements/c1e85c07-4b5a-56bf-b724-3069a3f422e6.md)
-- [2022-03-09 / 「消除一切形式種族歧視國際公約（ICERD）數位課程](./announcements/4602bfb4-e2c1-54ed-a114-011a9e3d1cad.md)
