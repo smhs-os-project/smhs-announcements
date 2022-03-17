@@ -2,7 +2,7 @@
 category: 競賽活動公告區
 title: 轉知「本土語畢業歌曲」創作比賽
 date: 2022-03-14
-href: http://www.smhs.kh.edu.tw/p/406-1000-3188,r21.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3188,r21.php
 ---
 
 # [競賽活動公告區] 轉知「本土語畢業歌曲」創作比賽
