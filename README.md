@@ -61,6 +61,8 @@
 - [2021-05-01 / 家長會獎勵金發放辦法](./announcements/708c406c-6cf1-50c6-a9d4-365a78e08ba7.md)
 
 ### 研習公告區
+- [2022-03-21 / 轉知「科技自造夢工坊」教師培育計畫](./announcements/f4511a63-8fce-5dbd-8161-4f16f353bb1d.md)
+- [2022-03-21 / 轉知「翻轉電力教育研習營」](./announcements/6d1553d4-3212-5c19-9ddb-734f6eb3b0b5.md)
 - [2022-03-21 / 轉知【瘋謎南女跨領域多元智能遊戲教育──教師PLC社群】](./announcements/82603ac9-d35e-5404-9bf7-859c7d058b62.md)
 - [2022-03-21 / 轉知「高級中等學校課程原住民族知識內涵研習活動」](./announcements/26a4a23a-2a7e-55fc-9619-4f29fe3cecbf.md)
 - [2022-03-21 / 轉知「從情感教育談關係大人學－綜合活動領域多元選修課程發表會」研習](./announcements/037b48f2-ec3c-5c96-a078-2b9b3af9a5ba.md)
@@ -68,5 +70,3 @@
 - [2022-03-18 / 轉知教育局所辦理「你不知道的Office365校務治理研習」](./announcements/2f7ef115-cdb1-509a-869c-ec1c73aeca08.md)
 - [2022-03-17 / 高中課程規劃與大學檢視工作坊II](./announcements/1d5a8c58-7156-508c-adcb-0d20d06bf5b9.md)
 - [2022-03-16 / 轉知2022第一屆Barber`s master competition男士理髮大師對決](./announcements/9eb12916-757f-57fc-8fab-37195ae42938.md)
-- [2022-03-16 / 轉知科技部「2022 GiCS 第2屆尋找資安女婕思」活動資訊](./announcements/fb902c24-a398-5cde-ae28-fcc6ecf361d9.md)
-- [2022-03-15 / 轉知南寧高中「全英語授課教與學之重點、卡點與轉捩點（Teaching English in English Dos, Don'ts, and Do Better）」](./announcements/736d4347-ff4d-597f-898c-4207547e6de7.md)
