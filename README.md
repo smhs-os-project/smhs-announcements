@@ -61,6 +61,7 @@
 - [2021-05-01 / 家長會獎勵金發放辦法](./announcements/708c406c-6cf1-50c6-a9d4-365a78e08ba7.md)
 
 ### 研習公告區
+- [2022-03-22 / 高雄市政府111年度兒少網路犯罪、性剝削增能研習實施計畫](./announcements/af78a10f-76bf-5464-bd2a-da4e1aeed643.md)
 - [2022-03-21 / 轉知「科技自造夢工坊」教師培育計畫](./announcements/f4511a63-8fce-5dbd-8161-4f16f353bb1d.md)
 - [2022-03-21 / 轉知「翻轉電力教育研習營」](./announcements/6d1553d4-3212-5c19-9ddb-734f6eb3b0b5.md)
 - [2022-03-21 / 轉知【瘋謎南女跨領域多元智能遊戲教育──教師PLC社群】](./announcements/82603ac9-d35e-5404-9bf7-859c7d058b62.md)
@@ -69,4 +70,3 @@
 - [2022-03-21 / 轉知臺灣科技大學執行教育部111年度「先進資通安全實務人才培育計畫」研習資訊](./announcements/07f7ff1e-96b4-5f31-bd83-e66eeca39d44.md)
 - [2022-03-18 / 轉知教育局所辦理「你不知道的Office365校務治理研習」](./announcements/2f7ef115-cdb1-509a-869c-ec1c73aeca08.md)
 - [2022-03-17 / 高中課程規劃與大學檢視工作坊II](./announcements/1d5a8c58-7156-508c-adcb-0d20d06bf5b9.md)
-- [2022-03-16 / 轉知2022第一屆Barber`s master competition男士理髮大師對決](./announcements/9eb12916-757f-57fc-8fab-37195ae42938.md)
