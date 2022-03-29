@@ -2,7 +2,7 @@
 category: 校內訊息公告區
 title: 公告 金獅文藝獎全項目得獎名單(0325新增漫畫)
 date: 2022-03-22
-href: http://www.smhs.kh.edu.tw/p/406-1000-3257,r24.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3257,r24.php
 ---
 
 # [校內訊息公告區] 公告 金獅文藝獎全項目得獎名單(0325新增漫畫)
