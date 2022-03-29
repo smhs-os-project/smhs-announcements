@@ -39,15 +39,15 @@
 - [2022-01-26 / 鼓勵考領機車駕照前，參加駕訓班接受正規駕駛訓練並補助案](./announcements/4b45fa60-efa8-5fb4-846f-9cb907b24b07.md)
 
 ### 競賽活動公告區
+- [2022-03-29 / 2022年日本名古屋世界青年會議申請計畫活動資訊](./announcements/ebfc7d45-59aa-5de5-9885-42f8d882f48a.md)
+- [2022-03-29 / 111年度『Cool English普技高口說菁英』活動辦法](./announcements/7bca0bc4-7254-5939-9592-0dbd3b2be914.md)
+- [2022-03-29 / 「2022全國高中職校雙語實作教學創作比賽」](./announcements/7b0bf5e4-6fe4-503a-b267-8cabe20e61f7.md)
 - [2022-03-29 / 「競美起手式黑客松競賽」](./announcements/e8c7b6fc-1536-518a-954a-0621cefc43a7.md)
 - [2022-03-29 / 「自由的見證－111年言論自由日系列活動」](./announcements/5b2f012f-99db-58cd-8cda-c3b0ba220f10.md)
 - [2022-03-29 / e化繳納使用牌照稅雄好康](./announcements/c8ce0bff-309f-5771-aa97-1ec7f704d8c4.md)
 - [2022-03-29 / 轉知「2022景文盃全國高中職英語讀者劇場比賽」](./announcements/1b509893-f6fd-5cdc-aae5-02cccaa1dd1e.md)
 - [2022-03-29 / 轉知「2022全國觀光水域遊程設計競賽」](./announcements/fb80bab3-0235-503a-939a-0289e7e876c9.md)
 - [2022-03-28 / 教育部國民及學前教育署委託國立臺中教育大學辦理「用寵愛記錄生命篇章」校園動物故事競賽活動](./announcements/ce25edf5-0234-5be8-ac7c-dfc0391b9f44.md)
-- [2022-03-28 / 全國科學探究競賽](./announcements/c19060ec-e9b4-581c-b6d7-560298755463.md)
-- [2022-03-28 / 「青年職涯發展中心」（Youth Salon，以下簡稱YS）111年4月活動DM](./announcements/4c94e514-74c2-5f8c-82bc-87ea6e3909c9.md)
-- [2022-03-25 / 高中職生AI扎根系列活動](./announcements/f88efa65-77d1-5266-8461-d9affa08bd2b.md)
 
 ### 學校法規公告區
 - [2022-01-24 / 高雄市立三民高中「服裝儀容委員會」設置要點-1110120修](./announcements/e95d8122-7fc8-5e06-bab8-9b4a9731f669.md)
@@ -61,12 +61,12 @@
 - [2021-05-01 / 家長會獎勵金發放辦法](./announcements/708c406c-6cf1-50c6-a9d4-365a78e08ba7.md)
 
 ### 研習公告區
+- [2022-03-29 / 轉知慈濟科技大學「雙語教育實踐國際論壇」研習資訊、徵件及報名](./announcements/fe6af627-1599-5d22-b793-9bb3d020f33d.md)
+- [2022-03-29 / 轉知國立旗山高級農工職業學校110學年度第2學期辦理之「全英語授課計畫」研習](./announcements/db8f7523-2812-59d9-b0cf-65916a423bea.md)
+- [2022-03-29 / 110學年度高雄市高中教師雙語教學增能工作坊](./announcements/ded63270-f3d0-5eee-a911-d507ec0c9f07.md)
 - [2022-03-29 / 轉知磨課師(MOOCs)線上課程「文字學(漢字字形學)（2022春季班）」](./announcements/bc8c1d88-d40f-553d-ac5e-14b8afb0a368.md)
 - [2022-03-29 / 轉知高雄高工辦理111年度高雄市「友善校園」學生事務與輔導工作－高中職生命教育議題融入教師共備學習社群研習(第3、4場)](./announcements/9906a9b0-cf9f-549d-aa0b-b3299b54ddf2.md)
 - [2022-03-28 / 轉知「2022技職教育永續發展學術研討會」](./announcements/ee45eb02-e6f1-581f-a56c-3a41960973ee.md)
 - [2022-03-25 / 轉知「用iPad打造你的創意課堂」工作坊](./announcements/25ebb950-f0b3-5799-b0e7-2a147313b92d.md)
 - [2022-03-25 / 轉知「同德校長主任培訓班(第二期)」招生資訊](./announcements/3a13da7d-db8e-5b56-afba-70760aea1c8c.md)
 - [2022-03-25 / 轉知「110學年度綠階/初階海洋教育者培訓課程」](./announcements/4d4dc2d1-bccf-58ea-859e-7aa40c6d22f6.md)
-- [2022-03-24 / 轉知國教署生命教育專業發展中心(LEPDC)「生命教育系列：生命意義的探索與開展【線上視訊】」實施計畫](./announcements/73c925d7-7bf1-55cf-a366-3c133c6bb9cf.md)
-- [2022-03-24 / 轉知海洋通識教育研習](./announcements/53e9a6ef-847c-5b10-8ceb-d5f56e71dc57.md)
-- [2022-03-24 / 轉知APPLE教育領袖會議](./announcements/a793dbcf-0f95-5d28-acb9-4e894dd0dc67.md)

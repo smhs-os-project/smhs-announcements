@@ -2,7 +2,7 @@
 category: 研習公告區
 title: 轉知「同德校長主任培訓班(第二期)」招生資訊
 date: 2022-03-25
-href: http://www.smhs.kh.edu.tw/p/406-1000-3270,r23.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3270,r23.php
 ---
 
 # [研習公告區] 轉知「同德校長主任培訓班(第二期)」招生資訊
