@@ -2,7 +2,7 @@
 category: 競賽活動公告區
 title: 轉知「2022景文盃全國高中職英語讀者劇場比賽」
 date: 2022-03-29
-href: http://www.smhs.kh.edu.tw/p/406-1000-3290,r21.php
+href: http://www.smhs.kh.edu.tw/p/406-1000-3290,r21.php?Lang=zh-tw
 ---
 
 # [競賽活動公告區] 轉知「2022景文盃全國高中職英語讀者劇場比賽」
