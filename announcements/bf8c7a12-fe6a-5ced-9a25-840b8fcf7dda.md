@@ -1,11 +1,11 @@
 ---
-category: 校內訊息公告區
+category: 公文公告區
 title: 高雄市政府推出本市籍學校學生租借高雄YouBike2.0前30分鐘免費優惠事宜
 date: 2022-03-30
-href: http://www.smhs.kh.edu.tw/p/406-1000-3309,r24.php
+href: http://www.smhs.kh.edu.tw/p/406-1000-3309,r22.php?Lang=zh-tw
 ---
 
-# [校內訊息公告區] 高雄市政府推出本市籍學校學生租借高雄YouBike2.0前30分鐘免費優惠事宜
+# [公文公告區] 高雄市政府推出本市籍學校學生租借高雄YouBike2.0前30分鐘免費優惠事宜
 
 發布日期：2022-03-30
 
