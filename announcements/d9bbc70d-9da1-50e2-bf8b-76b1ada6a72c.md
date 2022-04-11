@@ -1,13 +1,15 @@
 ---
 category: 校內訊息公告區
-title: 公告 110-2高一彈性學習第二階段選課事宜
+title: 公告 110-2高一彈性學習第二階段選課事宜(新增問卷)
 date: 2022-04-10
-href: http://www.smhs.kh.edu.tw/p/406-1000-3374,r24.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3374,r24.php
 ---
 
-# [校內訊息公告區] 公告 110-2高一彈性學習第二階段選課事宜
+# [校內訊息公告區] 公告 110-2高一彈性學習第二階段選課事宜(新增問卷)
 
 發布日期：2022-04-10
+
+[**第一階段問卷請點我**](https://docs.google.com/forms/d/1bmXr_W2hy-Szl9foxQyWQkPwcz_NlaLgnur0SgosC9Y/edit)
 
 •04/23(五)~04/25(日)選課
 
