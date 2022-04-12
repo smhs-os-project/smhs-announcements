@@ -6,6 +6,7 @@
 ## 公告一覽
 
 ### 校內訊息公告區
+- [2022-04-12 / 110學年度校內【國文作文】獲獎名單](./announcements/e36fb4d9-a343-554f-805a-0d48a9580ee1.md)
 - [2022-04-11 / 啟用 Workspace for Education 教育雲端帳號(OpenID)操作流程](./announcements/bdf7d3d6-e55a-54cd-9fe8-f83a4fb79a83.md)
 - [2022-04-11 / 110學年度第2學期 第一次期中考全校各班前三名名單](./announcements/2152068e-dfe7-521b-a3d4-6cf55fec40d5.md)
 - [2022-04-10 / 公告 110-2高一彈性學習第二階段選課事宜(新增問卷)](./announcements/d9bbc70d-9da1-50e2-bf8b-76b1ada6a72c.md)
@@ -14,7 +15,6 @@
 - [2022-03-22 / 【升學榮譽榜】本校參加111學年度「繁星推薦」錄取榜單](./announcements/65b5b7dd-fd6e-57ca-82f4-e8396508732e.md)
 - [2022-03-15 / 110學年度校內【閩南語字音字形】、【客家語字音字形】獲獎名單](./announcements/7b2c7327-a1f1-57b8-9460-130661d8c02b.md)
 - [2022-03-14 / 110學年度校內【寫字】獲獎名單](./announcements/9bdb84de-332c-51c5-ad95-b78e096f4f0a.md)
-- [2022-03-11 / 110學年度校內【國語字音字形】獲獎名單](./announcements/0975cf74-1e00-550d-b075-d2337de59ed7.md)
 
 ### 升學公告區
 - [2022-04-11 / 修平科技大學111學年度身心障礙招生](./announcements/f482b126-13ab-5440-92c5-f4b299bafef3.md)
