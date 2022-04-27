@@ -2,7 +2,7 @@
 category: 校內訊息公告區
 title: 110學年度第2學期【第一次期中考各班前三名】頒獎照片
 date: 2022-04-22
-href: http://www.smhs.kh.edu.tw/p/406-1000-3501,r24.php
+href: http://www.smhs.kh.edu.tw/p/406-1000-3501,r24.php?Lang=zh-tw
 ---
 
 # [校內訊息公告區] 110學年度第2學期【第一次期中考各班前三名】頒獎照片
