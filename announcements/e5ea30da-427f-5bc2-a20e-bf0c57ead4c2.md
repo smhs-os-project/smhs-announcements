@@ -2,7 +2,7 @@
 category: 研習公告區
 title: 轉知「校園修復式正義微課程教學實施成果發表會」
 date: 2022-04-25
-href: http://www.smhs.kh.edu.tw/p/406-1000-3514,r23.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3514,r23.php
 ---
 
 # [研習公告區] 轉知「校園修復式正義微課程教學實施成果發表會」
