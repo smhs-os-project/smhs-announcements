@@ -2,7 +2,7 @@
 category: 升學公告區
 title: 國立宜蘭大學「2022年微觀大學」推廣教育非學分班課程資訊
 date: 2022-05-05
-href: http://www.smhs.kh.edu.tw/p/406-1000-3580,r20.php?Lang=zh-tw
+href: http://www.smhs.kh.edu.tw/p/406-1000-3580,r20.php
 ---
 
 # [升學公告區] 國立宜蘭大學「2022年微觀大學」推廣教育非學分班課程資訊
