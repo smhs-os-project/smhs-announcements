@@ -12,9 +12,9 @@
 - [2022-05-25 / 本屆高三學生畢業條件說明](./announcements/5075cf41-9c25-55fb-b66e-c5a5d8b2197f.md)
 - [2022-05-24 / 本校111年招生簡報與宣傳資料](./announcements/d795d04f-c56a-5327-b337-e7c7c3aadd9b.md)
 - [2022-05-24 / 110學年度校內【英語演說複賽】日期異動](./announcements/704a74ba-be5a-58e6-9eae-9fed184ca35a.md)
-- [2022-05-20 / 111學年度第2學期【高三補考】成績公佈](./announcements/1224358a-00c2-5b4a-944b-20e77cf13bc2.md)
-- [2022-05-19 / 本校5/23(一)~5/27(五)全校進行居家遠距教學](./announcements/cbc78aaa-f4f3-5edc-9a02-1811a1dc882e.md)
 - [2022-05-18 / 校園水域安全防溺宣導！](./announcements/df4eb2bb-a3fd-5c78-ab1e-4072366c7ae8.md)
+- [2022-05-13 / 110學年度校內【閩南語朗讀】獲獎名單](./announcements/72d8ff18-ae74-5ed9-8ae3-2e4ae22a91a6.md)
+- [2022-05-09 / 111學年度體育班特色招生錄取榜單](./announcements/19f3e698-b306-5fe9-8958-85e38e485af2.md)
 
 ### 升學公告區
 - [2022-05-26 / 中國文化大學111學年度進修學士班招生資訊](./announcements/7f2857ed-423c-5a80-b7fc-5138916220e8.md)
