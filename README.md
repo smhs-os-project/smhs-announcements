@@ -23,7 +23,7 @@
 - [2022-05-27 / 勞動部勞動力發展署「111年度產業新尖兵試辦計畫」](./announcements/b04ca9f9-23ea-5edf-b488-cd5c3f210e4c.md)
 - [2022-05-26 / 中國文化大學111學年度進修學士班招生資訊](./announcements/7f2857ed-423c-5a80-b7fc-5138916220e8.md)
 - [2022-05-26 / 國立臺灣師範大學進修推廣學院辦理「111年度夏季推廣教育非學分班‒線上同步課程」](./announcements/b9e9ec1b-0cd3-50bc-8584-ec741c8d5d88.md)
-- [2022-05-25 / 函轉美國國際文化教育交流基金會（Foundation for International Culture and Education Exchange, FICEE）辦理「赴美習醫獎學金說明會」](./announcements/d138f2c3-9ea1-5aa9-b5cb-baa383ac8876.md)
+- [2022-05-24 / 免費提供111學年度四技二專甄選入學第二階段指定項目甄試考生（含親友）交通接駁專車](./announcements/7f862147-5d8d-5461-8527-862db6ae072c.md)
 - [2022-01-26 / 國立高雄師範大學於111年3月12日（星期六）舉辦「2022入學最前線」招生說明會](./announcements/dd17a0d1-6a30-5055-9221-7ca4dfae2bea.md)
 - [2022-01-26 / 國立嘉義大學於111年2月16日舉辦「學習歷程檔案與面試技巧」講座](./announcements/c74aa1af-4952-5fb3-9d8e-451f1e7b1262.md)
 
